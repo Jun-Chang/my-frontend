@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["dom", "esnext"],
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowJs": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}

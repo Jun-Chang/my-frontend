@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "next.js-udemy",
+      "title": "Next.jsをUdemyで学ぶ",
+      "content": "shincodeさんの教材でNext.jsを学びました。",
+      "createdAt": "2022-07-14"
+    },
+    {
+      "id": "json-server",
+      "title": "json-serverを学ぶ",
+      "content": "json-serverを使って、フロントエンド開発を行いました。 json-serverは、フロントエンド開発を行う際に、バックエンドのAPIを実装することなく、フロントエンドの開発を行うことができるツールです。",
+      "createdAt": "2022-07-16"
+    },
+    {
+      "id": "react",
+      "title": "react",
+      "content": "reactを学びました。reactは、フロントエンドの開発を行う際に、コンポーネント指向の開発を行うことができるライブラリです。reactを使うことで、コンポーネント指向の開発を行うことができます。reactはvue.jsと並んで、フロントエンドの開発を行う際に、よく使われるライブラリです。vanilla.jsと比べて、コードの再利用性が高くなるため、開発効率が向上します。",
+      "createdAt": "2022-07-18"
+    }
+  ]
+}
